@@ -7,7 +7,7 @@ Previously, I worked as an Application Development Analyst at Accenture Solution
 
 I’m actively seeking Full time opportunities in software engineering and Data Engineering Field where I can apply my skills, grow as a developer, and help build transformative solutions.
 ________________________________________
-About Me
+##About Me
 
 Education
 
@@ -41,8 +41,10 @@ Achievements
 •	Published research on Fog Computing in Healthcare Monitoring in IJERT (2021).
 •	Treasurer of Graduate Student Women in Business.
 •	Competed in IEEE 24-hour Hackathon, developing security-focused applications.
-________________________________________
-Skills & Tools
+---
+
+##Skills & Tools
+
 •	Languages:  Python, SQL, R, C, C++, HTML, CSS, JavaScript
 •	Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib
 •	Big Data: PySpark, Apache Hadoop, Databricks, ETL Pipelines
@@ -52,14 +54,16 @@ Skills & Tools
 •	Databases & Operating Systems : MySQL, Mango DB, PostgreSQL, Amazon RedShift, Windows, Linux
 •	Optimization & Algorithms: Linear Programming, SVM, Random Forest, Gradient Boosting, Neural Networks
 
+---
 
-Certifications
+##Certifications
 •	AWS Certified AI Practitioner (AWS AIF-C01)
 •	Microsoft Certified: Azure Fundamentals (AZ900)
 •	Microsoft Certified: Power Platform Fundamentals (PL900)
 •	Microsoft Certified: Azure Data Fundamentals (DP900)
 ________________________________________
-Projects
+##Projects
+
 Grocery Genie (Jan 2025 – May 2025)
 •	Implements an AI-powered recipe recommendation system using AI API for ingredient detection and Gemini API for generating personalized recipes based on user preferences.
 •	Built with Python, Flask and MongoDB, featuring automated CI/CD pipelines via GitHub Actions and deployed on Azure Services.
@@ -69,11 +73,15 @@ Customer Churn Prediction (Feb 2024 – May 2024)
 IoT & Fog Computing in Healthcare (Aug 2020 - Apr 2021)
 •	Implemented a real-time healthcare monitoring system using Fog Computing and IoT.
 •	Published research on the system’s impact on timely medical interventions.
-________________________________________
-📈 What Drives Me
+
+---
+
+##What Drives Me
+
 I'm driven by a passion for using technology to tackle real-world problems. With a strong foundation from both my academic and professional experiences, I’m confident in my ability to contribute to projects in software engineering, data science, and cloud computing. I thrive in collaborative environments, enjoy innovating, and value every opportunity to learn from industry expert.
-________________________________________
-Let’s Connect!
+---
+
+##Let’s Connect!
 •	LinkedIn: https://www.linkedin.com/in/niharikamysoreprakasha28  
 •	Email: niharikacs28@gmail.com  
 •	GitHub:  https://github.com/NiharikaMysorePrakasha 
