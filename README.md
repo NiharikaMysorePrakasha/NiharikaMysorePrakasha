@@ -1,103 +1,102 @@
-## Hi there 👋 I'm Niharika Mysore Prakasha
-
 Hi there! 👋 I'm Niharika Mysore Prakasha
-I'm a Software Engineer with a passion for data-driven technologies and full-stack development. Currently, I am pursuing my Master’s in Computer Software Engineering at Stevens Institute of Technology, where I’m deepening my understanding of software engineering practices and exploring innovative approaches to data analytics and software development.
 
-Previously, I worked as an Application Development Analyst at Accenture Solutions Pvt Ltd, where I architected and automated pipelines for data migration, analyzed the data, enhanced system performance, and contributed to scalable microservices architectures. My experience spans across software development, cloud computing, and data-driven problem-solving.
+I’m a Software Engineer with a passion for data-driven technologies and full-stack development. Currently pursuing my Master’s in Computer Software Engineering at Stevens Institute of Technology, I’m focused on deepening my expertise in software engineering, data analytics, and scalable system design.
 
-I’m actively seeking Full time opportunities in software engineering and Data Engineering Field where I can apply my skills, grow as a developer, and help build transformative solutions.
-________________________________________
-##About Me
+Previously, I worked as an Application Development Analyst at Accenture Solutions Pvt Ltd, where I developed and automated pipelines for data migration, analyzed large datasets, and enhanced system performance across microservices architectures. I bring experience in software development, cloud computing, and data-driven problem-solving.
 
-Education
-
-•	Master of Computer Software Engineering | Stevens Institute of Technology, Hoboken, New Jersey (Expected: May 2025)
-•	Bachelor of Engineering in Computer Science | Vidyavardhaka College of Engineering, India (Graduated: Aug 2021)
-
-Experience
-
-•	Accenture Solutions Pvt Ltd (Oct 2021 – Aug 2023)
-o	Built scalable data pipelines  and automated ETL workflows 
-o	Designed real-time Power BI dashboards, enabling actionable business insights.
-o	Analyzed large datasets to identify trends, anomalies, and improvement areas.
-o	Wrote complex SQL queries for data extraction, transformation, and reporting.
-o	Resolved 20+ critical bugs and contributed to Agile sprints and daily stand-ups.
-o	Mentored new hires and collaborated with cross-functional teams for seamless delivery.
-
-•	Contriver (Mar 2021 – Aug 2021)
-o	Built and deployed full-stack web apps using React, Node.js, and MongoDB.
-o	Integrated RESTful APIs for real-time data exchange and seamless functionality.
-o	Streamlined development with GitHub Actions for CI/CD and automated testing.
-o	Improved UI responsiveness and performance, enhancing overall user experience.
-
-•	Machine Learning Intern, Verzeo (May 2019 - Aug 2019)
-o	 Built ML models using Gradient Boosting, SVM, and CNN for fraud detection across 1M+ transactions.
-o	Conducted data preprocessing, feature engineering, and model tuning for improved accuracy and reduced false positives.
-o	Delivered an interactive dashboard for real-time insights and fraud risk scoring.
-o	Deployed trained models and integrated them into internal systems for live predictions.
-
-
-Achievements
-•	Published research on Fog Computing in Healthcare Monitoring in IJERT (2021).
-•	Treasurer of Graduate Student Women in Business.
-•	Competed in IEEE 24-hour Hackathon, developing security-focused applications.
----
-
-##Skills & Tools
-
-•	Languages:  Python, SQL, R, C, C++, HTML, CSS, JavaScript
-•	Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib
-•	Big Data: PySpark, Apache Hadoop, Databricks, ETL Pipelines
-•	Cloud & APIs: AWS, Azure, DevOps, OpenAI, LLMs
-•	Visualization: Power BI, Tableau
-•	Tools: Jupyter, SQLite, Excel, Git, Bitbucket, Microsoft Office, Data Flow Studio, JIRA
-•	Databases & Operating Systems : MySQL, Mango DB, PostgreSQL, Amazon RedShift, Windows, Linux
-•	Optimization & Algorithms: Linear Programming, SVM, Random Forest, Gradient Boosting, Neural Networks
+I’m currently seeking full-time opportunities in **Software Engineering** and **Data Engineering**, where I can contribute, grow, and help build innovative, high-impact solutions.
 
 ---
 
-##Certifications
-•	AWS Certified AI Practitioner (AWS AIF-C01)
-•	Microsoft Certified: Azure Fundamentals (AZ900)
-•	Microsoft Certified: Power Platform Fundamentals (PL900)
-•	Microsoft Certified: Azure Data Fundamentals (DP900)
-________________________________________
-##Projects
+## **About Me**
 
-Grocery Genie (Jan 2025 – May 2025)
-•	Implements an AI-powered recipe recommendation system using AI API for ingredient detection and Gemini API for generating personalized recipes based on user preferences.
-•	Built with Python, Flask and MongoDB, featuring automated CI/CD pipelines via GitHub Actions and deployed on Azure Services.
 
-Customer Churn Prediction (Feb 2024 – May 2024)
+### **Education**
+- **Master of Science in Computer Software Engineering**  
+  *Stevens Institute of Technology* — *Expected May 2025*
+- **Bachelor of Engineering in Computer Science**  
+  *Vidyavardhaka College of Engineering, India*
 
-IoT & Fog Computing in Healthcare (Aug 2020 - Apr 2021)
-•	Implemented a real-time healthcare monitoring system using Fog Computing and IoT.
-•	Published research on the system’s impact on timely medical interventions.
+### **Experience**
+
+**Accenture Solutions Pvt Ltd** *(Oct 2021 – Aug 2023)*  
+- Built scalable data pipelines and automated ETL workflows.  
+- Designed real-time Power BI dashboards, enabling actionable business insights.  
+- Analyzed large datasets to identify trends, anomalies, and improvement areas.  
+- Wrote complex SQL queries for data extraction, transformation, and reporting.  
+- Resolved 20+ critical bugs and contributed to Agile sprints and daily stand-ups.  
+- Mentored new hires and collaborated with cross-functional teams for seamless delivery.
+
+**Contriver** *(Mar 2021 – Aug 2021)*  
+- Built and deployed full-stack web apps using React, Node.js, and MongoDB.  
+- Integrated RESTful APIs for real-time data exchange and seamless functionality.  
+- Streamlined development with GitHub Actions for CI/CD and automated testing.  
+- Improved UI responsiveness and performance, enhancing overall user experience.
+
+**Verzeo – Machine Learning Intern** *(May 2019 – Aug 2019)*  
+- Built ML models using Gradient Boosting, SVM, and CNN for fraud detection across 1M+ transactions.  
+- Conducted data preprocessing, feature engineering, and model tuning for better accuracy.  
+- Delivered an interactive dashboard for real-time insights and fraud risk scoring.  
+- Deployed trained models and integrated them into internal systems for live predictions.
 
 ---
 
-##What Drives Me
+### **Achievements**
+- Published research on *Fog Computing in Healthcare Monitoring* in IJERT (2021).  
+- Treasurer of Graduate Student Women in Business.  
+- Finalist in IEEE 24-hour Hackathon; developed security-focused applications.
 
-I'm driven by a passion for using technology to tackle real-world problems. With a strong foundation from both my academic and professional experiences, I’m confident in my ability to contribute to projects in software engineering, data science, and cloud computing. I thrive in collaborative environments, enjoy innovating, and value every opportunity to learn from industry expert.
 ---
 
-##Let’s Connect!
-•	LinkedIn: https://www.linkedin.com/in/niharikamysoreprakasha28  
-•	Email: niharikacs28@gmail.com  
-•	GitHub:  https://github.com/NiharikaMysorePrakasha 
+## **Skills & Tools**
 
 
-<!--
-**NiharikaMysorePrakasha/NiharikaMysorePrakasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages:** Python, SQL, R, C, C++, HTML, CSS, JavaScript  
+**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib  
+**Big Data:** PySpark, Apache Hadoop, Databricks, ETL Pipelines  
+**Cloud & APIs:** AWS, Azure, DevOps, OpenAI, LLMs  
+**Visualization:** Power BI, Tableau  
+**Tools:** Jupyter, SQLite, Excel, Git, Bitbucket, Microsoft Office, Data Flow Studio, JIRA  
+**Databases & OS:** MySQL, MongoDB, PostgreSQL, Amazon Redshift, Windows, Linux  
+**Algorithms:** Linear Programming, SVM, Random Forest, Gradient Boosting, Neural Networks
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Certifications**
+- AWS Certified AI Practitioner (AIF-C01)  
+- Microsoft Certified: Azure Fundamentals (AZ-900)  
+- Microsoft Certified: Power Platform Fundamentals (PL-900)  
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
+
+---
+
+## **Projects**
+
+### **Grocery Genie** *(Jan 2025 – May 2025)*  
+- Built an AI-powered recipe recommendation system using AI APIs for ingredient detection.  
+- Integrated Gemini API to generate personalized recipes based on user preferences.  
+- Developed using Python, Flask, MongoDB; deployed via CI/CD pipelines using GitHub Actions and Azure Services.
+
+### **Customer Churn Prediction** *(Feb 2024 – May 2024)*  
+- Developed ML models using PySpark and Gradient Boosted Trees to predict customer churn.  
+- Achieved 92.05% accuracy and AUC of 0.86; identified key churn drivers using ROC analysis.
+
+### **IoT & Fog Computing in Healthcare** *(Aug 2020 – Apr 2021)*  
+- Implemented a real-time healthcare monitoring system using Fog Computing and IoT.  
+- Published research highlighting the impact on early diagnosis and timely interventions.
+
+---
+
+## **What Drives Me**
+
+I’m passionate about using technology to solve real-world challenges. With a strong academic foundation and professional experience, I’m confident in delivering impact through software engineering, data science, and cloud-based systems. I enjoy working in collaborative environments, exploring innovative ideas, and learning from industry experts.
+
+---
+
+## **Let’s Connect**
+
+- **LinkedIn:** [Niharika Mysore Prakasha](https://www.linkedin.com/in/niharikamysoreprakasha28)  
+- **Email:** niharikacs28@gmail.com  
+- **GitHub:** [github.com/NiharikaMysorePrakasha](https://github.com/NiharikaMysorePrakasha)
+
+---
