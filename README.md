@@ -41,7 +41,8 @@ I’m currently seeking full-time opportunities in **Software Engineering** and 
 
 ---
 
-### **Achievements**
+## **Achievements**
+
 - Published research on *Fog Computing in Healthcare Monitoring* in IJERT (2021).  
 - Treasurer of Graduate Student Women in Business.  
 - Finalist in IEEE 24-hour Hackathon; developed security-focused applications.
@@ -62,7 +63,8 @@ I’m currently seeking full-time opportunities in **Software Engineering** and 
 
 ---
 
-### **Certifications**
+## **Certifications**
+
 - AWS Certified AI Practitioner (AIF-C01)  
 - Microsoft Certified: Azure Fundamentals (AZ-900)  
 - Microsoft Certified: Power Platform Fundamentals (PL-900)  
