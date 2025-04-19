@@ -1,4 +1,4 @@
-##Hi there! 👋 I'm Niharika Mysore Prakasha
+## Hi there 👋 I'm Niharika Mysore Prakasha
 
 I’m a Software Engineer with a passion for data-driven technologies and full-stack development. Currently pursuing my Master’s in Computer Software Engineering at Stevens Institute of Technology, I’m focused on deepening my expertise in software engineering, data analytics, and scalable system design.
 
